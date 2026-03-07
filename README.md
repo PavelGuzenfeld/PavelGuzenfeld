@@ -2,7 +2,7 @@
 
 **Drone Avionics Software Engineer**
 
-C++ · ROS 2 · PX4 · Gazebo · VTOL Navigation · GPS-Denied Flight
+C++ · ROS 2 · PX4 · GStreamer
 
 ---
 
