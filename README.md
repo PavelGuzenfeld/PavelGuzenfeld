@@ -17,16 +17,6 @@ C++ · ROS 2 · PX4 · GStreamer
 | [l2-hybrid-protocol](https://github.com/PavelGuzenfeld/l2-hybrid-protocol) | Beat UDP at its own game — hybrid L2 protocol |
 | [ucoro](https://github.com/PavelGuzenfeld/ucoro) | C++ coroutine library |
 
-### Systems & Low-Level Libraries
-
-| Project | Description |
-|---------|-------------|
-| [safe-shm](https://github.com/PavelGuzenfeld/safe-shm) | Thread-safe shared memory |
-| [image-shm-dblbuf](https://github.com/PavelGuzenfeld/image-shm-dblbuf) | Highly optimized double-buffer compile-time allocated shared memory |
-| [concurrentqueue](https://github.com/PavelGuzenfeld/concurrentqueue) | Lock-free concurrent multi-producer/multi-consumer queue |
-| [exception-rt](https://github.com/PavelGuzenfeld/exception-rt) | Exceptions override with predictable allocations |
-| [immutable-yaml](https://github.com/PavelGuzenfeld/immutable-yaml) | Header-only compile-time YAML |
-| [v4l2](https://github.com/PavelGuzenfeld/v4l2) | Video for Linux 2 video source adapter |
 
 ### Tools & DevOps
 
@@ -35,7 +25,6 @@ C++ · ROS 2 · PX4 · GStreamer
 | [mcp-media-forge](https://github.com/PavelGuzenfeld/mcp-media-forge) | MCP server for generating presentations, diagrams, and charts |
 | [gemini-mcp](https://github.com/PavelGuzenfeld/gemini-mcp) | MCP server exposing Google Gemini as tools for Claude Code |
 | [ros2-alpine](https://github.com/PavelGuzenfeld/ros2-alpine) | Alpine Linux with ROS 2 |
-| [qa-agency](https://github.com/PavelGuzenfeld/qa-agency) | QA automation agency |
 
 ---
 
@@ -51,7 +40,3 @@ C++ · ROS 2 · PX4 · GStreamer
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelGuzenfeld&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGuzenfeld&layout=compact&theme=tokyonight&hide_border=true)
