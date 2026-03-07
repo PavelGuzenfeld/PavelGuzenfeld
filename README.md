@@ -2,8 +2,6 @@
 
 **Drone Avionics Software Engineer**
 
-C++ · ROS 2 · PX4 · GStreamer
-
 ---
 
 ### Featured Projects
@@ -38,5 +36,6 @@ C++ · ROS 2 · PX4 · GStreamer
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-E4002B?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
