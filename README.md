@@ -11,10 +11,12 @@
 | [strong-types](https://github.com/PavelGuzenfeld/strong-types) | Strong type C++ library with fuzz testing |
 | [standard](https://github.com/PavelGuzenfeld/standard) | Reusable GitHub Actions for C++ & Python quality gates — diff-aware linting, SAST, sanitizers, fuzzing |
 | [fiber-nav-sim](https://github.com/PavelGuzenfeld/fiber-nav-sim) | VTOL navigation & simulation framework |
-| [behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite) | Lightweight behavior tree implementation in C++ |
+| [behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite) | Header-only C++23 behavior tree with compile-time DSL and zero-overhead flattened execution |
 | [l2-hybrid-protocol](https://github.com/PavelGuzenfeld/l2-hybrid-protocol) | Beat UDP at its own game — hybrid L2 protocol |
+| [immutable-data-embedder](https://github.com/PavelGuzenfeld/immutable-data-embedder) | Compile-time C++23 parser — embed configs as constexpr data with zero runtime overhead |
+| [linalg3d](https://github.com/PavelGuzenfeld/linalg3d) | Simple linear math for 3D calculations |
+| [image-to-body-math](https://github.com/PavelGuzenfeld/image-to-body-math) | Image-to-body and body-to-image coordinate math |
 | [ucoro](https://github.com/PavelGuzenfeld/ucoro) | C++ coroutine library |
-
 
 ### Tools & DevOps
 
