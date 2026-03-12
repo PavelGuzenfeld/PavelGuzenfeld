@@ -27,7 +27,6 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Generate metrics
-        if: secrets.METRICS_TOKEN != ''
         continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
