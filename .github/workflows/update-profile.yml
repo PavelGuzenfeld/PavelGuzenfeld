@@ -18,14 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate contribution snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: PavelGuzenfeld
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
       - name: Generate metrics
         continue-on-error: true
         uses: lowlighter/metrics@latest

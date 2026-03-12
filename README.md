@@ -72,9 +72,3 @@ Designing software for UAV avionics, navigation, and computer vision pipelines. 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="contribution snake animation" src="dist/github-snake.svg" />
-</picture>
