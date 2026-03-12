@@ -1,0 +1,43 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours to keep stats fresh
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: PavelGuzenfeld
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: dist/metrics-activity.svg
+          user: PavelGuzenfeld
+          template: classic
+          base: activity, community
+          config_timezone: Asia/Jerusalem
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'chore: update profile assets'
+          add: 'dist/'
