@@ -2,7 +2,7 @@
 
 **Drone Avionics Software Engineer** — Building safety-critical systems for autonomous flight
 
-I design real-time C++23 systems for UAV avionics, navigation, and computer vision pipelines. My work focuses on type safety, zero-overhead abstractions, and deterministic behavior in embedded and robotic platforms.
+Designing software for UAV avionics, navigation, and computer vision pipelines. Focusesing on code quality, zero-overhead abstractions, and deterministic behavior on edge computing.
 
 ---
 
