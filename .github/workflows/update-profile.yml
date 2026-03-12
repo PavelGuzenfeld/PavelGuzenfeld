@@ -1,3 +1,4 @@
+# Auto-updates profile metrics and assets
 name: Update Profile README
 
 on:
