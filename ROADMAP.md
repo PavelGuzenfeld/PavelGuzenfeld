@@ -4,13 +4,16 @@
 - [x] Upgrade profile README — categorized projects, tech stack, stats
 - [x] Add GitHub Actions for auto-updating profile (activity feed, metrics)
 - [x] Create batch script for repo descriptions & topics
-- [ ] Run `./scripts/update-repos.sh` (needs `gh auth login`)
-- [ ] Pin 6 repos: strong-types, standard, fiber-nav-sim, behavior-tree-lite, gst-metadata, gemini-mcp
-- [ ] Add `METRICS_TOKEN` secret for auto-generated stats
+- [x] Run `./scripts/update-repos.sh` — all repo descriptions & topics updated
+- [x] Pin 6 repos: strong-types, standard, fiber-nav-sim, behavior-tree-lite, gst-metadata, gemini-mcp
+- [x] Add `METRICS_TOKEN` secret for auto-generated stats
 
 ## Phase 2: Content Quality
-- [ ] Polish READMEs for pinned repos (usage examples, build instructions, architecture)
-- [ ] Add badges (CI status, license, language) to top repos
+- [x] Polish READMEs for pinned repos (fiber-nav-sim, gemini-mcp, behavior-tree-lite)
+- [x] Add badges (C++, ROS2, license, npm) to top repos
+- [x] Add comparison table to behavior-tree-lite (vs BehaviorTree.CPP)
+- [x] Add usage examples & troubleshooting to gemini-mcp
+- [x] Add feature highlights to fiber-nav-sim
 - [ ] Add screenshots/diagrams to visual projects (fiber-nav-sim, mcp-media-forge)
 
 ## Phase 3: Visibility & Reach
