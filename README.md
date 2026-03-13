@@ -71,4 +71,9 @@ Designing software for UAV avionics, navigation, and computer vision pipelines. 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.2.0](https://github.com/PavelGuzenfeld/mcp-media-forge/releases/tag/v0.2.0) in [PavelGuzenfeld/mcp-media-forge](https://github.com/PavelGuzenfeld/mcp-media-forge)
+2. 🎉 Merged PR [#6](https://github.com/PavelGuzenfeld/mcp-media-forge/pull/6) in [PavelGuzenfeld/mcp-media-forge](https://github.com/PavelGuzenfeld/mcp-media-forge)
+3. 💪 Opened PR [#6](https://github.com/PavelGuzenfeld/mcp-media-forge/pull/6) in [PavelGuzenfeld/mcp-media-forge](https://github.com/PavelGuzenfeld/mcp-media-forge)
+4. 🎉 Merged PR [#5](https://github.com/PavelGuzenfeld/mcp-media-forge/pull/5) in [PavelGuzenfeld/mcp-media-forge](https://github.com/PavelGuzenfeld/mcp-media-forge)
+5. 💪 Opened PR [#5](https://github.com/PavelGuzenfeld/mcp-media-forge/pull/5) in [PavelGuzenfeld/mcp-media-forge](https://github.com/PavelGuzenfeld/mcp-media-forge)
 <!--END_SECTION:activity-->
