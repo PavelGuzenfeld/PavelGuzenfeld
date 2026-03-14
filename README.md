@@ -2,7 +2,9 @@
 
 **Drone Avionics Software Engineer** — Building safety-critical systems for autonomous flight
 
-Designing software for UAV avionics, navigation, and computer vision pipelines. Focusesing on code quality, zero-overhead abstractions, and deterministic behavior on edge computing.
+Designing software for UAV avionics, navigation, and computer vision pipelines. Focusing on code quality, zero-overhead abstractions, and deterministic behavior on edge computing.
+
+Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course) — a hands-on C++ course for CV/AI Python developers, teaching how to surgically replace hot paths with production C++ using nanobind, CUDA, and profiling-driven optimization.
 
 ---
 
