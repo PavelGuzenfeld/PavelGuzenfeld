@@ -46,6 +46,7 @@ Designing software for UAV avionics, navigation, and computer vision pipelines. 
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-48B9C7?style=flat&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat&logoColor=white)
+![O3DE](https://img.shields.io/badge/O3DE-1C3A5F?style=flat&logo=o3de&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
