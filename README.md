@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/2) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-2. 💪 Opened PR [#2](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/2) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-3. 🎉 Merged PR [#2](https://github.com/PavelGuzenfeld/hw-sdk-mock/pull/2) in [PavelGuzenfeld/hw-sdk-mock](https://github.com/PavelGuzenfeld/hw-sdk-mock)
-4. 💪 Opened PR [#2](https://github.com/PavelGuzenfeld/hw-sdk-mock/pull/2) in [PavelGuzenfeld/hw-sdk-mock](https://github.com/PavelGuzenfeld/hw-sdk-mock)
-5. 🎉 Merged PR [#1](https://github.com/PavelGuzenfeld/hw-sdk-mock/pull/1) in [PavelGuzenfeld/hw-sdk-mock](https://github.com/PavelGuzenfeld/hw-sdk-mock)
+1. 🎉 Merged PR [#18](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/18) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+2. 💪 Opened PR [#18](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/18) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+3. 🗣 Commented on [#993](https://github.com/dora-rs/dora/issues/993#issuecomment-4061741988) in [dora-rs/dora](https://github.com/dora-rs/dora)
+4. 💪 Opened PR [#1403](https://github.com/dora-rs/dora/pull/1403) in [dora-rs/dora](https://github.com/dora-rs/dora)
+5. 🎉 Merged PR [#17](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/17) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
 <!--END_SECTION:activity-->
