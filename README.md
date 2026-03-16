@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/18) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-2. 💪 Opened PR [#18](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/18) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-3. 🗣 Commented on [#993](https://github.com/dora-rs/dora/issues/993#issuecomment-4061741988) in [dora-rs/dora](https://github.com/dora-rs/dora)
-4. 💪 Opened PR [#1403](https://github.com/dora-rs/dora/pull/1403) in [dora-rs/dora](https://github.com/dora-rs/dora)
-5. 🎉 Merged PR [#17](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/17) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+1. 🗣 Commented on [#26098](https://github.com/opencv/opencv/issues/26098#issuecomment-4063916249) in [opencv/opencv](https://github.com/opencv/opencv)
+2. 💪 Opened PR [#28660](https://github.com/opencv/opencv/pull/28660) in [opencv/opencv](https://github.com/opencv/opencv)
+3. 🗣 Commented on [#6330](https://github.com/eProsima/Fast-DDS/issues/6330#issuecomment-4063911478) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
+4. 💪 Opened PR [#1234](https://github.com/eProsima/Fast-DDS-docs/pull/1234) in [eProsima/Fast-DDS-docs](https://github.com/eProsima/Fast-DDS-docs)
+5. 🗣 Commented on [#6331](https://github.com/eProsima/Fast-DDS/issues/6331#issuecomment-4063892812) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
 <!--END_SECTION:activity-->
