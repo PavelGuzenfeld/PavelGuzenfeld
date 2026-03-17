@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26098](https://github.com/opencv/opencv/issues/26098#issuecomment-4063916249) in [opencv/opencv](https://github.com/opencv/opencv)
-2. 💪 Opened PR [#28660](https://github.com/opencv/opencv/pull/28660) in [opencv/opencv](https://github.com/opencv/opencv)
-3. 🗣 Commented on [#6330](https://github.com/eProsima/Fast-DDS/issues/6330#issuecomment-4063911478) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
-4. 💪 Opened PR [#1234](https://github.com/eProsima/Fast-DDS-docs/pull/1234) in [eProsima/Fast-DDS-docs](https://github.com/eProsima/Fast-DDS-docs)
-5. 🗣 Commented on [#6331](https://github.com/eProsima/Fast-DDS/issues/6331#issuecomment-4063892812) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
+1. ❌ Closed PR [#2800](https://github.com/mavlink/MAVSDK/pull/2800) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+2. 🗣 Commented on [#2800](https://github.com/mavlink/MAVSDK/pull/2800#issuecomment-4070871278) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+3. 💪 Opened PR [#2800](https://github.com/mavlink/MAVSDK/pull/2800) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+4. 💪 Opened PR [#28665](https://github.com/opencv/opencv/pull/28665) in [opencv/opencv](https://github.com/opencv/opencv)
+5. 💪 Opened PR [#12094](https://github.com/dmlc/xgboost/pull/12094) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
 <!--END_SECTION:activity-->
