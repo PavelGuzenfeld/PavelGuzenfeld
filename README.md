@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2800](https://github.com/mavlink/MAVSDK/pull/2800) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-2. 🗣 Commented on [#2800](https://github.com/mavlink/MAVSDK/pull/2800#issuecomment-4070871278) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-3. 💪 Opened PR [#2800](https://github.com/mavlink/MAVSDK/pull/2800) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-4. 💪 Opened PR [#28665](https://github.com/opencv/opencv/pull/28665) in [opencv/opencv](https://github.com/opencv/opencv)
-5. 💪 Opened PR [#12094](https://github.com/dmlc/xgboost/pull/12094) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
+1. 💪 Opened PR [#188](https://github.com/Auterion/px4-ros2-interface-lib/pull/188) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
+2. 💪 Opened PR [#1431](https://github.com/dora-rs/dora/pull/1431) in [dora-rs/dora](https://github.com/dora-rs/dora)
+3. 💪 Opened PR [#1428](https://github.com/dora-rs/dora/pull/1428) in [dora-rs/dora](https://github.com/dora-rs/dora)
+4. 💪 Opened PR [#1427](https://github.com/dora-rs/dora/pull/1427) in [dora-rs/dora](https://github.com/dora-rs/dora)
+5. ❌ Closed PR [#1426](https://github.com/dora-rs/dora/pull/1426) in [dora-rs/dora](https://github.com/dora-rs/dora)
 <!--END_SECTION:activity-->
