@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/Auterion/px4-ros2-interface-lib/pull/188) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
-2. 💪 Opened PR [#1431](https://github.com/dora-rs/dora/pull/1431) in [dora-rs/dora](https://github.com/dora-rs/dora)
-3. 💪 Opened PR [#1428](https://github.com/dora-rs/dora/pull/1428) in [dora-rs/dora](https://github.com/dora-rs/dora)
-4. 💪 Opened PR [#1427](https://github.com/dora-rs/dora/pull/1427) in [dora-rs/dora](https://github.com/dora-rs/dora)
-5. ❌ Closed PR [#1426](https://github.com/dora-rs/dora/pull/1426) in [dora-rs/dora](https://github.com/dora-rs/dora)
+1. 🗣 Commented on [#12086](https://github.com/dmlc/xgboost/pull/12086#issuecomment-4085706987) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
+2. 🗣 Commented on [#189](https://github.com/Auterion/px4-ros2-interface-lib/pull/189#issuecomment-4085706291) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
+3. 🗣 Commented on [#446](https://github.com/cameron314/concurrentqueue/pull/446#issuecomment-4085706197) in [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
+4. 🗣 Commented on [#445](https://github.com/cameron314/concurrentqueue/pull/445#issuecomment-4085706111) in [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
+5. 🗣 Commented on [#1409](https://github.com/dora-rs/dora/pull/1409#issuecomment-4083578718) in [dora-rs/dora](https://github.com/dora-rs/dora)
 <!--END_SECTION:activity-->
