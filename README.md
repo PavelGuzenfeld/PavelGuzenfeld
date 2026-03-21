@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12112](https://github.com/dmlc/xgboost/pull/12112) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
-2. 🗣 Commented on [#192](https://github.com/Auterion/px4-ros2-interface-lib/pull/192#issuecomment-4094046308) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
-3. 💪 Opened PR [#12111](https://github.com/dmlc/xgboost/pull/12111) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
-4. 💪 Opened PR [#12110](https://github.com/dmlc/xgboost/pull/12110) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
-5. 🗣 Commented on [#192](https://github.com/Auterion/px4-ros2-interface-lib/pull/192#issuecomment-4091057587) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
+1. 🗣 Commented on [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836#issuecomment-4098292262) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+2. 🗣 Commented on [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836#issuecomment-4098154427) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+3. 💪 Opened PR [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+4. 🎉 Merged PR [#192](https://github.com/Auterion/px4-ros2-interface-lib/pull/192) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
+5. 🎉 Merged PR [#12110](https://github.com/dmlc/xgboost/pull/12110) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
 <!--END_SECTION:activity-->
