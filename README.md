@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836#issuecomment-4098292262) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-2. 🗣 Commented on [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836#issuecomment-4098154427) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-3. 💪 Opened PR [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-4. 🎉 Merged PR [#192](https://github.com/Auterion/px4-ros2-interface-lib/pull/192) in [Auterion/px4-ros2-interface-lib](https://github.com/Auterion/px4-ros2-interface-lib)
-5. 🎉 Merged PR [#12110](https://github.com/dmlc/xgboost/pull/12110) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
+1. 💪 Opened PR [#26848](https://github.com/PX4/PX4-Autopilot/pull/26848) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+2. 💪 Opened PR [#26847](https://github.com/PX4/PX4-Autopilot/pull/26847) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+3. 💪 Opened PR [#26846](https://github.com/PX4/PX4-Autopilot/pull/26846) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+4. 💪 Opened PR [#26845](https://github.com/PX4/PX4-Autopilot/pull/26845) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+5. 💪 Opened PR [#6344](https://github.com/eProsima/Fast-DDS/pull/6344) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
 <!--END_SECTION:activity-->
