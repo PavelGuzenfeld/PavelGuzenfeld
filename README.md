@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26848](https://github.com/PX4/PX4-Autopilot/pull/26848) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-2. 💪 Opened PR [#26847](https://github.com/PX4/PX4-Autopilot/pull/26847) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-3. 💪 Opened PR [#26846](https://github.com/PX4/PX4-Autopilot/pull/26846) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-4. 💪 Opened PR [#26845](https://github.com/PX4/PX4-Autopilot/pull/26845) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-5. 💪 Opened PR [#6344](https://github.com/eProsima/Fast-DDS/pull/6344) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
+1. 🎉 Merged PR [#26846](https://github.com/PX4/PX4-Autopilot/pull/26846) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+2. 🗣 Commented on [#3110](https://github.com/ros2/rclcpp/pull/3110#issuecomment-4106177756) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
+3. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4106177417) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
+4. 🗣 Commented on [#1213](https://github.com/ros2/ros2cli/pull/1213#issuecomment-4105742748) in [ros2/ros2cli](https://github.com/ros2/ros2cli)
+5. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4105718345) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
 <!--END_SECTION:activity-->
