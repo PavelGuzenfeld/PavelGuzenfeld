@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26846](https://github.com/PX4/PX4-Autopilot/pull/26846) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-2. 🗣 Commented on [#3110](https://github.com/ros2/rclcpp/pull/3110#issuecomment-4106177756) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
-3. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4106177417) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
-4. 🗣 Commented on [#1213](https://github.com/ros2/ros2cli/pull/1213#issuecomment-4105742748) in [ros2/ros2cli](https://github.com/ros2/ros2cli)
-5. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4105718345) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
+1. 🚀 Published release [v1.0.1](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/releases/tag/v1.0.1) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+2. 🗣 Commented on [#26848](https://github.com/PX4/PX4-Autopilot/pull/26848#issuecomment-4111358866) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+3. 🚀 Published release [v1.0.0](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/releases/tag/v1.0.0) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+4. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4107434565) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
+5. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4107383301) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
 <!--END_SECTION:activity-->
