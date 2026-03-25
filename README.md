@@ -74,9 +74,9 @@ Currently building [ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-cour
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/releases/tag/v1.0.1) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-2. 🗣 Commented on [#26848](https://github.com/PX4/PX4-Autopilot/pull/26848#issuecomment-4111358866) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-3. 🚀 Published release [v1.0.0](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/releases/tag/v1.0.0) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-4. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4107434565) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
-5. 🗣 Commented on [#3109](https://github.com/ros2/rclcpp/pull/3109#issuecomment-4107383301) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
+1. 🗣 Commented on [#26847](https://github.com/PX4/PX4-Autopilot/pull/26847#issuecomment-4119558759) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+2. 🗣 Commented on [#920](https://github.com/ros2/geometry2/pull/920#issuecomment-4118715460) in [ros2/geometry2](https://github.com/ros2/geometry2)
+3. 🗣 Commented on [#26854](https://github.com/PX4/PX4-Autopilot/pull/26854#issuecomment-4117367165) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+4. 🎉 Merged PR [#908](https://github.com/ros2/geometry2/pull/908) in [ros2/geometry2](https://github.com/ros2/geometry2)
+5. 🗣 Commented on [#26845](https://github.com/PX4/PX4-Autopilot/pull/26845#issuecomment-4116035177) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
 <!--END_SECTION:activity-->
