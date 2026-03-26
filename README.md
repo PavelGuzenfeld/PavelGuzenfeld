@@ -48,16 +48,14 @@ I design and implement flight-critical software for drones and robotics: navigat
 
 ### Upstream Contributions
 
-97 patches across 15 projects:
-
-- **Eigen** — 24 MRs: bug fixes, new operators, structured bindings, Gram-Schmidt QR
-- **dora-rs** — 9 PRs: C++ API parity, zero-copy output, dynamic node init
-- **XGBoost** — 10 PRs: `python -OO` crash fixes, type safety, dead code removal
-- **PX4-Autopilot** — 7 PRs: DDS reconnection, MAVLink signing, mission resume bugs
-- **GStreamer** — 7 MRs: NVMM Jetson plugins, shmsink bugs, CUDA memory checks
-- **Fast-DDS** — 7 PRs: data races, infinite loop, null-deref, missing includes
-- **MAVSDK** — 5 PRs: telemetry timestamps, geofence download, HOME_POSITION
-- **ROS 2** — 4 PRs: O(N²) → O(N) CallbackGroup (71x speedup), deadlock fix
+- **Eigen** — bug fixes, new operators, structured bindings, Gram-Schmidt QR
+- **dora-rs** — C++ API parity, zero-copy output, dynamic node init
+- **XGBoost** — `python -OO` crash fixes, type safety, dead code removal
+- **PX4-Autopilot** — DDS reconnection, MAVLink signing, mission resume bugs
+- **GStreamer** — NVMM Jetson plugins, shmsink bugs, CUDA memory checks
+- **Fast-DDS** — data races, infinite loop, null-deref, missing includes
+- **MAVSDK** — telemetry timestamps, geofence download, HOME_POSITION
+- **ROS 2** — O(N²) → O(N) CallbackGroup (71x speedup), deadlock fix
 - **OpenCV**, **concurrentqueue**, **px4-ros2-interface-lib** — bug fixes and utilities
 
 [Full contribution list with links →](https://pavelguzenfeld.com/projects/)
