@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26847](https://github.com/PX4/PX4-Autopilot/pull/26847#issuecomment-4119558759) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-2. 🗣 Commented on [#920](https://github.com/ros2/geometry2/pull/920#issuecomment-4118715460) in [ros2/geometry2](https://github.com/ros2/geometry2)
-3. 🗣 Commented on [#26854](https://github.com/PX4/PX4-Autopilot/pull/26854#issuecomment-4117367165) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-4. 🎉 Merged PR [#908](https://github.com/ros2/geometry2/pull/908) in [ros2/geometry2](https://github.com/ros2/geometry2)
-5. 🗣 Commented on [#26845](https://github.com/PX4/PX4-Autopilot/pull/26845#issuecomment-4116035177) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+1. ❌ Closed PR [#401](https://github.com/mavlink/MAVSDK-Proto/pull/401) in [mavlink/MAVSDK-Proto](https://github.com/mavlink/MAVSDK-Proto)
+2. 🗣 Commented on [#401](https://github.com/mavlink/MAVSDK-Proto/pull/401#issuecomment-4141589479) in [mavlink/MAVSDK-Proto](https://github.com/mavlink/MAVSDK-Proto)
+3. 💪 Opened PR [#401](https://github.com/mavlink/MAVSDK-Proto/pull/401) in [mavlink/MAVSDK-Proto](https://github.com/mavlink/MAVSDK-Proto)
+4. 🎉 Merged PR [#1](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/1) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+5. 💪 Opened PR [#1](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/1) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
 <!--END_SECTION:activity-->
