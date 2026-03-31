@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2823](https://github.com/mavlink/MAVSDK/pull/2823) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-2. 💪 Opened PR [#2822](https://github.com/mavlink/MAVSDK/pull/2822) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-3. 💪 Opened PR [#2821](https://github.com/mavlink/MAVSDK/pull/2821) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-4. 🎉 Merged PR [#2801](https://github.com/mavlink/MAVSDK/pull/2801) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-5. 🗣 Commented on [#2804](https://github.com/mavlink/MAVSDK/pull/2804#issuecomment-4150749055) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+1. 💪 Opened PR [#2828](https://github.com/mavlink/MAVSDK/pull/2828) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+2. 💪 Opened PR [#2827](https://github.com/mavlink/MAVSDK/pull/2827) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+3. 🗣 Commented on [#1915](https://github.com/mavlink/MAVSDK/issues/1915#issuecomment-4157919649) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+4. 🗣 Commented on [#1996](https://github.com/mavlink/MAVSDK/issues/1996#issuecomment-4157919510) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+5. 🗣 Commented on [#2143](https://github.com/mavlink/MAVSDK/issues/2143#issuecomment-4157919359) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
 <!--END_SECTION:activity-->
