@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2827](https://github.com/mavlink/MAVSDK/pull/2827) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-2. 🎉 Merged PR [#2828](https://github.com/mavlink/MAVSDK/pull/2828) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-3. 🎉 Merged PR [#2803](https://github.com/mavlink/MAVSDK/pull/2803) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-4. 🎉 Merged PR [#2804](https://github.com/mavlink/MAVSDK/pull/2804) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-5. 🗣 Commented on [#2804](https://github.com/mavlink/MAVSDK/pull/2804#issuecomment-4160371625) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+1. 🚀 Published release [v0.4.1](https://github.com/PavelGuzenfeld/linalg3d/releases/tag/v0.4.1) in [PavelGuzenfeld/linalg3d](https://github.com/PavelGuzenfeld/linalg3d)
+2. 🔒 Closed issue [#15](https://github.com/PavelGuzenfeld/strong-types/issues/15) in [PavelGuzenfeld/strong-types](https://github.com/PavelGuzenfeld/strong-types)
+3. 🗣 Commented on [#15](https://github.com/PavelGuzenfeld/strong-types/issues/15#issuecomment-4180217040) in [PavelGuzenfeld/strong-types](https://github.com/PavelGuzenfeld/strong-types)
+4. 🔒 Closed issue [#11](https://github.com/PavelGuzenfeld/linalg3d/issues/11) in [PavelGuzenfeld/linalg3d](https://github.com/PavelGuzenfeld/linalg3d)
+5. 🔒 Closed issue [#10](https://github.com/PavelGuzenfeld/linalg3d/issues/10) in [PavelGuzenfeld/linalg3d](https://github.com/PavelGuzenfeld/linalg3d)
 <!--END_SECTION:activity-->
