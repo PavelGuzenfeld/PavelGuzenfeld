@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#405](https://github.com/mavlink/MAVSDK-Proto/pull/405) in [mavlink/MAVSDK-Proto](https://github.com/mavlink/MAVSDK-Proto)
-2. 🗣 Commented on [#405](https://github.com/mavlink/MAVSDK-Proto/pull/405#issuecomment-4195139644) in [mavlink/MAVSDK-Proto](https://github.com/mavlink/MAVSDK-Proto)
-3. 🗣 Commented on [#2848](https://github.com/mavlink/MAVSDK/pull/2848#issuecomment-4195132845) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-4. 🎉 Merged PR [#2847](https://github.com/mavlink/MAVSDK/pull/2847) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
-5. 💪 Opened PR [#2848](https://github.com/mavlink/MAVSDK/pull/2848) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+1. 🗣 Commented on [#26836](https://github.com/PX4/PX4-Autopilot/pull/26836#issuecomment-4202687519) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+2. 🗣 Commented on [#26845](https://github.com/PX4/PX4-Autopilot/pull/26845#issuecomment-4198745054) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+3. 🗣 Commented on [#26848](https://github.com/PX4/PX4-Autopilot/pull/26848#issuecomment-4198644120) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+4. 🗣 Commented on [#2848](https://github.com/mavlink/MAVSDK/pull/2848#issuecomment-4197881376) in [mavlink/MAVSDK](https://github.com/mavlink/MAVSDK)
+5. 🎉 Merged PR [#405](https://github.com/mavlink/MAVSDK-Proto/pull/405) in [mavlink/MAVSDK-Proto](https://github.com/mavlink/MAVSDK-Proto)
 <!--END_SECTION:activity-->
