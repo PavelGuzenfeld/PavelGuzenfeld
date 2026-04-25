@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/21) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-2. 💪 Opened PR [#21](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/21) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-3. 🎉 Merged PR [#12162](https://github.com/dmlc/xgboost/pull/12162) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
-4. 🗣 Commented on [#12162](https://github.com/dmlc/xgboost/pull/12162#issuecomment-4260267475) in [dmlc/xgboost](https://github.com/dmlc/xgboost)
-5. 🗣 Commented on [#1](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/1#issuecomment-4259137834) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+1. 🗣 Commented on [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2#issuecomment-4313015670) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+2. 🗣 Commented on [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2#issuecomment-4312715205) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+3. 💪 Opened PR [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+4. 🎉 Merged PR [#21](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/21) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+5. 💪 Opened PR [#21](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/21) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
 <!--END_SECTION:activity-->
