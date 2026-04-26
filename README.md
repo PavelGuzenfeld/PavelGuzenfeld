@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2#issuecomment-4313015670) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-2. 🗣 Commented on [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2#issuecomment-4312715205) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-3. 💪 Opened PR [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-4. 🎉 Merged PR [#21](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/21) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-5. 💪 Opened PR [#21](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/21) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+1. 🎉 Merged PR [#11](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/11) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+2. 💪 Opened PR [#11](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/11) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+3. 🎉 Merged PR [#10](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/10) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+4. 💪 Opened PR [#10](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/10) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+5. 🎉 Merged PR [#9](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/9) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
 <!--END_SECTION:activity-->
