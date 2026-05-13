@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/PavelGuzenfeld/standard/pull/119#issuecomment-4397333413) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-2. 🎉 Merged PR [#11](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/11) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
-3. 💪 Opened PR [#11](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/11) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
-4. 🎉 Merged PR [#10](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/10) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
-5. 💪 Opened PR [#10](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/10) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+1. 🗣 Commented on [#122](https://github.com/PavelGuzenfeld/standard/pull/122#issuecomment-4429070301) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+2. 🗣 Commented on [#123](https://github.com/PavelGuzenfeld/standard/pull/123#issuecomment-4429067288) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. 🗣 Commented on [#123](https://github.com/PavelGuzenfeld/standard/pull/123#issuecomment-4429063453) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. 🗣 Commented on [#119](https://github.com/PavelGuzenfeld/standard/pull/119#issuecomment-4397333413) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. 🎉 Merged PR [#11](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/11) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
 <!--END_SECTION:activity-->
