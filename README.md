@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26854](https://github.com/PX4/PX4-Autopilot/pull/26854) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-2. 🗣 Commented on [#2](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/2#issuecomment-4445381871) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-3. 🎉 Merged PR [#3](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/3) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-4. 💪 Opened PR [#3](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/3) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-5. 🗣 Commented on [#1](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/1#issuecomment-4445500436) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+1. 💪 Opened PR [#661](https://github.com/boost-ext/sml/pull/661) in [boost-ext/sml](https://github.com/boost-ext/sml)
+2. 💪 Opened PR [#1908](https://github.com/dora-rs/dora/pull/1908) in [dora-rs/dora](https://github.com/dora-rs/dora)
+3. 🗣 Commented on [#1546](https://github.com/dora-rs/dora/issues/1546#issuecomment-4512249419) in [dora-rs/dora](https://github.com/dora-rs/dora)
+4. 💪 Opened PR [#1907](https://github.com/dora-rs/dora/pull/1907) in [dora-rs/dora](https://github.com/dora-rs/dora)
+5. 💪 Opened PR [#1906](https://github.com/dora-rs/dora/pull/1906) in [dora-rs/dora](https://github.com/dora-rs/dora)
 <!--END_SECTION:activity-->
