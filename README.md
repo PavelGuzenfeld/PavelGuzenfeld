@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#661](https://github.com/boost-ext/sml/pull/661) in [boost-ext/sml](https://github.com/boost-ext/sml)
-2. 💪 Opened PR [#1908](https://github.com/dora-rs/dora/pull/1908) in [dora-rs/dora](https://github.com/dora-rs/dora)
-3. 🗣 Commented on [#1546](https://github.com/dora-rs/dora/issues/1546#issuecomment-4512249419) in [dora-rs/dora](https://github.com/dora-rs/dora)
-4. 💪 Opened PR [#1907](https://github.com/dora-rs/dora/pull/1907) in [dora-rs/dora](https://github.com/dora-rs/dora)
-5. 💪 Opened PR [#1906](https://github.com/dora-rs/dora/pull/1906) in [dora-rs/dora](https://github.com/dora-rs/dora)
+1. 🗣 Commented on [#666](https://github.com/boost-ext/sml/pull/666#issuecomment-4520393499) in [boost-ext/sml](https://github.com/boost-ext/sml)
+2. 🗣 Commented on [#666](https://github.com/boost-ext/sml/pull/666#issuecomment-4520330760) in [boost-ext/sml](https://github.com/boost-ext/sml)
+3. 💪 Opened PR [#666](https://github.com/boost-ext/sml/pull/666) in [boost-ext/sml](https://github.com/boost-ext/sml)
+4. 💪 Opened PR [#665](https://github.com/boost-ext/sml/pull/665) in [boost-ext/sml](https://github.com/boost-ext/sml)
+5. 🎉 Merged PR [#664](https://github.com/boost-ext/sml/pull/664) in [boost-ext/sml](https://github.com/boost-ext/sml)
 <!--END_SECTION:activity-->
