@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#709](https://github.com/boost-ext/sml/pull/709) in [boost-ext/sml](https://github.com/boost-ext/sml)
-2. 💪 Opened PR [#709](https://github.com/boost-ext/sml/pull/709) in [boost-ext/sml](https://github.com/boost-ext/sml)
-3. 🎉 Merged PR [#708](https://github.com/boost-ext/sml/pull/708) in [boost-ext/sml](https://github.com/boost-ext/sml)
-4. 🎉 Merged PR [#706](https://github.com/boost-ext/sml/pull/706) in [boost-ext/sml](https://github.com/boost-ext/sml)
-5. 💪 Opened PR [#708](https://github.com/boost-ext/sml/pull/708) in [boost-ext/sml](https://github.com/boost-ext/sml)
+1. 🎉 Merged PR [#710](https://github.com/boost-ext/sml/pull/710) in [boost-ext/sml](https://github.com/boost-ext/sml)
+2. 💪 Opened PR [#710](https://github.com/boost-ext/sml/pull/710) in [boost-ext/sml](https://github.com/boost-ext/sml)
+3. 🗣 Commented on [#632](https://github.com/boost-ext/sml/issues/632#issuecomment-4602508532) in [boost-ext/sml](https://github.com/boost-ext/sml)
+4. 🗣 Commented on [#643](https://github.com/boost-ext/sml/issues/643#issuecomment-4602508303) in [boost-ext/sml](https://github.com/boost-ext/sml)
+5. 🗣 Commented on [#583](https://github.com/boost-ext/sml/issues/583#issuecomment-4602508136) in [boost-ext/sml](https://github.com/boost-ext/sml)
 <!--END_SECTION:activity-->
