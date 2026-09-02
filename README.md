@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6511](https://github.com/eProsima/Fast-DDS/pull/6511) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
-2. 🗣 Commented on [#5762](https://github.com/eProsima/Fast-DDS/issues/5762#issuecomment-5375617905) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
-3. 🗣 Commented on [#6338](https://github.com/eProsima/Fast-DDS/issues/6338#issuecomment-5375617774) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
-4. 💪 Opened PR [#6510](https://github.com/eProsima/Fast-DDS/pull/6510) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
-5. 🗣 Commented on [#6340](https://github.com/eProsima/Fast-DDS/issues/6340#issuecomment-5374701451) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
+1. 🎉 Merged PR [#163](https://github.com/PavelGuzenfeld/standard/pull/163) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+2. 💪 Opened PR [#163](https://github.com/PavelGuzenfeld/standard/pull/163) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. 🎉 Merged PR [#162](https://github.com/PavelGuzenfeld/standard/pull/162) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. 💪 Opened PR [#162](https://github.com/PavelGuzenfeld/standard/pull/162) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. 💪 Opened PR [#6511](https://github.com/eProsima/Fast-DDS/pull/6511) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
 <!--END_SECTION:activity-->
