@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3167](https://github.com/ros2/rclcpp/pull/3167) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
-2. 🗣 Commented on [#3167](https://github.com/ros2/rclcpp/pull/3167#issuecomment-5516012240) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
-3. 🗣 Commented on [#3170](https://github.com/ros2/rclcpp/pull/3170#issuecomment-5514926840) in [ros2/rclcpp](https://github.com/ros2/rclcpp)
-4. 🎉 Merged PR [#163](https://github.com/PavelGuzenfeld/standard/pull/163) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-5. 💪 Opened PR [#163](https://github.com/PavelGuzenfeld/standard/pull/163) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+1. 🎉 Merged PR [#166](https://github.com/PavelGuzenfeld/standard/pull/166) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+2. 💪 Opened PR [#166](https://github.com/PavelGuzenfeld/standard/pull/166) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. 🎉 Merged PR [#165](https://github.com/PavelGuzenfeld/standard/pull/165) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. 💪 Opened PR [#165](https://github.com/PavelGuzenfeld/standard/pull/165) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. 🎉 Merged PR [#164](https://github.com/PavelGuzenfeld/standard/pull/164) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
 <!--END_SECTION:activity-->
