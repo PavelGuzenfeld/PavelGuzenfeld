@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/PavelGuzenfeld/flowdiff/pull/21) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-2. 🔒 Closed issue [#15](https://github.com/PavelGuzenfeld/flowdiff/issues/15) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-3. 🔒 Closed issue [#3](https://github.com/PavelGuzenfeld/flowdiff/issues/3) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-4. 🎉 Merged PR [#16](https://github.com/PavelGuzenfeld/flowdiff/pull/16) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-5. 🎉 Merged PR [#20](https://github.com/PavelGuzenfeld/flowdiff/pull/20) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+1. 🎉 Merged PR [#29](https://github.com/PavelGuzenfeld/flowdiff/pull/29) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+2. 💪 Opened PR [#29](https://github.com/PavelGuzenfeld/flowdiff/pull/29) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+3. 🎉 Merged PR [#28](https://github.com/PavelGuzenfeld/flowdiff/pull/28) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+4. 💪 Opened PR [#28](https://github.com/PavelGuzenfeld/flowdiff/pull/28) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+5. 🎉 Merged PR [#27](https://github.com/PavelGuzenfeld/flowdiff/pull/27) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
 <!--END_SECTION:activity-->
