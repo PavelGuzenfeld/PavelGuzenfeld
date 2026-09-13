@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/PavelGuzenfeld/flowdiff/pull/29) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-2. 💪 Opened PR [#29](https://github.com/PavelGuzenfeld/flowdiff/pull/29) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-3. 🎉 Merged PR [#28](https://github.com/PavelGuzenfeld/flowdiff/pull/28) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-4. 💪 Opened PR [#28](https://github.com/PavelGuzenfeld/flowdiff/pull/28) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-5. 🎉 Merged PR [#27](https://github.com/PavelGuzenfeld/flowdiff/pull/27) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+1. 💪 Opened PR [#57](https://github.com/PavelGuzenfeld/flowdiff/pull/57) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+2. ℹ️ Labeled issue [#169](https://github.com/PavelGuzenfeld/standard/issues/169) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. ❗ Opened issue [#169](https://github.com/PavelGuzenfeld/standard/issues/169) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. ℹ️ Labeled issue [#60](https://github.com/PavelGuzenfeld/strong-types/issues/60) in [PavelGuzenfeld/strong-types](https://github.com/PavelGuzenfeld/strong-types)
+5. ❗ Opened issue [#60](https://github.com/PavelGuzenfeld/strong-types/issues/60) in [PavelGuzenfeld/strong-types](https://github.com/PavelGuzenfeld/strong-types)
 <!--END_SECTION:activity-->
