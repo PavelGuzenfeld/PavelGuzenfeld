@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/PavelGuzenfeld/flowdiff/issues/48#issuecomment-5656807766) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-2. 🔒 Closed issue [#48](https://github.com/PavelGuzenfeld/flowdiff/issues/48) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-3. 🎉 Merged PR [#60](https://github.com/PavelGuzenfeld/flowdiff/pull/60) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-4. 🎉 Merged PR [#62](https://github.com/PavelGuzenfeld/flowdiff/pull/62) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-5. 🎉 Merged PR [#63](https://github.com/PavelGuzenfeld/flowdiff/pull/63) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+1. ℹ️ Labeled issue [#76](https://github.com/PavelGuzenfeld/flowdiff/issues/76) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+2. ❗ Opened issue [#76](https://github.com/PavelGuzenfeld/flowdiff/issues/76) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+3. ℹ️ Labeled issue [#75](https://github.com/PavelGuzenfeld/flowdiff/issues/75) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+4. ❗ Opened issue [#75](https://github.com/PavelGuzenfeld/flowdiff/issues/75) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
+5. 🔒 Closed issue [#33](https://github.com/PavelGuzenfeld/ai-cpp-course/issues/33) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
 <!--END_SECTION:activity-->
