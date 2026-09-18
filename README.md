@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/PavelGuzenfeld/geoslice/pull/3) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
-2. 💪 Opened PR [#80](https://github.com/PavelGuzenfeld/flowdiff/pull/80) in [PavelGuzenfeld/flowdiff](https://github.com/PavelGuzenfeld/flowdiff)
-3. 🎉 Merged PR [#82](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/82) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-4. 💪 Opened PR [#82](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/82) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
-5. 🗣 Commented on [#80](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/80#issuecomment-5706480231) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+1. 🗣 Commented on [#195](https://github.com/ast-grep/langs/pull/195#issuecomment-5718781676) in [ast-grep/langs](https://github.com/ast-grep/langs)
+2. ℹ️ Labeled issue [#107](https://github.com/PavelGuzenfeld/ai-cpp-course/issues/107) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+3. ❗ Opened issue [#107](https://github.com/PavelGuzenfeld/ai-cpp-course/issues/107) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+4. 🎉 Merged PR [#106](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/106) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
+5. 💪 Opened PR [#106](https://github.com/PavelGuzenfeld/ai-cpp-course/pull/106) in [PavelGuzenfeld/ai-cpp-course](https://github.com/PavelGuzenfeld/ai-cpp-course)
 <!--END_SECTION:activity-->
