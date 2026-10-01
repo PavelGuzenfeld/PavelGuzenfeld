@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#330](https://github.com/PavelGuzenfeld/agent-sdlc/issues/330) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-2. 🎉 Merged PR [#331](https://github.com/PavelGuzenfeld/agent-sdlc/pull/331) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-3. 🔒 Closed issue [#329](https://github.com/PavelGuzenfeld/agent-sdlc/issues/329) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-4. ℹ️ Assigned PR [#331](https://github.com/PavelGuzenfeld/agent-sdlc/pull/331) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-5. 💪 Opened PR [#331](https://github.com/PavelGuzenfeld/agent-sdlc/pull/331) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+1. 🎉 Merged PR [#26](https://github.com/PavelGuzenfeld/behavior-tree-lite/pull/26) in [PavelGuzenfeld/behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite)
+2. ℹ️ Assigned PR [#26](https://github.com/PavelGuzenfeld/behavior-tree-lite/pull/26) in [PavelGuzenfeld/behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite)
+3. 💪 Opened PR [#26](https://github.com/PavelGuzenfeld/behavior-tree-lite/pull/26) in [PavelGuzenfeld/behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite)
+4. 🎉 Merged PR [#25](https://github.com/PavelGuzenfeld/behavior-tree-lite/pull/25) in [PavelGuzenfeld/behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite)
+5. 🔒 Closed issue [#7](https://github.com/PavelGuzenfeld/behavior-tree-lite/issues/7) in [PavelGuzenfeld/behavior-tree-lite](https://github.com/PavelGuzenfeld/behavior-tree-lite)
 <!--END_SECTION:activity-->
