@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#109](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/issues/109) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-2. ℹ️ Labeled issue [#109](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/issues/109) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-3. ❗ Opened issue [#109](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/issues/109) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-4. ℹ️ Assigned PR [#108](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/108) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
-5. 💪 Opened PR [#108](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/108) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+1. ℹ️ Assigned PR [#139](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/139) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+2. 💪 Opened PR [#139](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/pull/139) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+3. 🗣 Commented on [#138](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/issues/138#issuecomment-5964344214) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+4. ℹ️ Labeled issue [#138](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/issues/138) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
+5. ℹ️ Assigned issue [#138](https://github.com/PavelGuzenfeld/gst-nvmm-cpp/issues/138) in [PavelGuzenfeld/gst-nvmm-cpp](https://github.com/PavelGuzenfeld/gst-nvmm-cpp)
 <!--END_SECTION:activity-->
