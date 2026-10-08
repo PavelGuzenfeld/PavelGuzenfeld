@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#346](https://github.com/PavelGuzenfeld/agent-sdlc/pull/346) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-2. 💪 Opened PR [#346](https://github.com/PavelGuzenfeld/agent-sdlc/pull/346) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-3. 🎉 Merged PR [#345](https://github.com/PavelGuzenfeld/agent-sdlc/pull/345) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-4. 🔒 Closed issue [#339](https://github.com/PavelGuzenfeld/agent-sdlc/issues/339) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-5. ℹ️ Assigned PR [#345](https://github.com/PavelGuzenfeld/agent-sdlc/pull/345) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+1. ❗ Opened issue [#723](https://github.com/boost-ext/sml/issues/723) in [boost-ext/sml](https://github.com/boost-ext/sml)
+2. ℹ️ Labeled issue [#351](https://github.com/PavelGuzenfeld/agent-sdlc/issues/351) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+3. ℹ️ Labeled issue [#351](https://github.com/PavelGuzenfeld/agent-sdlc/issues/351) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+4. ❗ Opened issue [#351](https://github.com/PavelGuzenfeld/agent-sdlc/issues/351) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+5. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6041712057) in [boost-ext/sml](https://github.com/boost-ext/sml)
 <!--END_SECTION:activity-->
