@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#723](https://github.com/boost-ext/sml/issues/723) in [boost-ext/sml](https://github.com/boost-ext/sml)
-2. ℹ️ Labeled issue [#351](https://github.com/PavelGuzenfeld/agent-sdlc/issues/351) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-3. ℹ️ Labeled issue [#351](https://github.com/PavelGuzenfeld/agent-sdlc/issues/351) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-4. ❗ Opened issue [#351](https://github.com/PavelGuzenfeld/agent-sdlc/issues/351) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-5. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6041712057) in [boost-ext/sml](https://github.com/boost-ext/sml)
+1. ❗ Opened issue [#726](https://github.com/boost-ext/sml/issues/726) in [boost-ext/sml](https://github.com/boost-ext/sml)
+2. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6100434480) in [boost-ext/sml](https://github.com/boost-ext/sml)
+3. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6100055961) in [boost-ext/sml](https://github.com/boost-ext/sml)
+4. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6099667607) in [boost-ext/sml](https://github.com/boost-ext/sml)
+5. ❗ Opened issue [#723](https://github.com/boost-ext/sml/issues/723) in [boost-ext/sml](https://github.com/boost-ext/sml)
 <!--END_SECTION:activity-->
