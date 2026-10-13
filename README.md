@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/thebandofficial/tracker-case/issues/3) in [thebandofficial/tracker-case](https://github.com/thebandofficial/tracker-case)
-2. 🗣 Commented on [#1](https://github.com/thebandofficial/tracker-case/issues/1#issuecomment-6109420639) in [thebandofficial/tracker-case](https://github.com/thebandofficial/tracker-case)
-3. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6106115505) in [boost-ext/sml](https://github.com/boost-ext/sml)
-4. ❗ Opened issue [#727](https://github.com/boost-ext/sml/issues/727) in [boost-ext/sml](https://github.com/boost-ext/sml)
-5. 🗣 Commented on [#723](https://github.com/boost-ext/sml/issues/723#issuecomment-6106067772) in [boost-ext/sml](https://github.com/boost-ext/sml)
+1. 🎉 Merged PR [#335](https://github.com/PavelGuzenfeld/standard/pull/335) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+2. ℹ️ Assigned PR [#335](https://github.com/PavelGuzenfeld/standard/pull/335) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. 💪 Opened PR [#335](https://github.com/PavelGuzenfeld/standard/pull/335) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. 🎉 Merged PR [#332](https://github.com/PavelGuzenfeld/standard/pull/332) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. 🔒 Closed issue [#330](https://github.com/PavelGuzenfeld/standard/issues/330) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
 <!--END_SECTION:activity-->
