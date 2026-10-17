@@ -94,9 +94,9 @@ I design and implement flight-critical software for drones and robotics: navigat
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#730](https://github.com/boost-ext/sml/pull/730) in [boost-ext/sml](https://github.com/boost-ext/sml)
-2. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6177778328) in [boost-ext/sml](https://github.com/boost-ext/sml)
-3. 🗣 Commented on [#722](https://github.com/boost-ext/sml/pull/722#issuecomment-6177777645) in [boost-ext/sml](https://github.com/boost-ext/sml)
-4. 🗣 Commented on [#734](https://github.com/boost-ext/sml/issues/734#issuecomment-6168245119) in [boost-ext/sml](https://github.com/boost-ext/sml)
-5. 🎉 Merged PR [#731](https://github.com/boost-ext/sml/pull/731) in [boost-ext/sml](https://github.com/boost-ext/sml)
+1. 🎉 Merged PR [#729](https://github.com/boost-ext/sml/pull/729) in [boost-ext/sml](https://github.com/boost-ext/sml)
+2. 🎉 Merged PR [#732](https://github.com/boost-ext/sml/pull/732) in [boost-ext/sml](https://github.com/boost-ext/sml)
+3. 💪 Opened PR [#155](https://github.com/Parskatt/RoMa/pull/155) in [Parskatt/RoMa](https://github.com/Parskatt/RoMa)
+4. 🎉 Merged PR [#728](https://github.com/boost-ext/sml/pull/728) in [boost-ext/sml](https://github.com/boost-ext/sml)
+5. 🎉 Merged PR [#730](https://github.com/boost-ext/sml/pull/730) in [boost-ext/sml](https://github.com/boost-ext/sml)
 <!--END_SECTION:activity-->
