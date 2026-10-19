@@ -60,9 +60,9 @@ Open-source projects and their docs: [pavelguzenfeld.com/open-source](https://pa
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#738](https://github.com/boost-ext/sml/pull/738) in [boost-ext/sml](https://github.com/boost-ext/sml)
-2. 🎉 Merged PR [#739](https://github.com/boost-ext/sml/pull/739) in [boost-ext/sml](https://github.com/boost-ext/sml)
-3. 🗣 Commented on [#737](https://github.com/boost-ext/sml/issues/737#issuecomment-6239549609) in [boost-ext/sml](https://github.com/boost-ext/sml)
-4. 🗣 Commented on [#85](https://github.com/boost-ext/sml/issues/85#issuecomment-6239356909) in [boost-ext/sml](https://github.com/boost-ext/sml)
-5. 🗣 Commented on [#83](https://github.com/boost-ext/sml/issues/83#issuecomment-6239356647) in [boost-ext/sml](https://github.com/boost-ext/sml)
+1. 🔒 Closed issue [#12](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/issues/12) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+2. 🎉 Merged PR [#349](https://github.com/PavelGuzenfeld/standard/pull/349) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. 🔒 Closed issue [#348](https://github.com/PavelGuzenfeld/standard/issues/348) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. ℹ️ Assigned PR [#349](https://github.com/PavelGuzenfeld/standard/pull/349) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. 💪 Opened PR [#349](https://github.com/PavelGuzenfeld/standard/pull/349) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
 <!--END_SECTION:activity-->
