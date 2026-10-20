@@ -60,9 +60,9 @@ Open-source projects and their docs: [pavelguzenfeld.com/open-source](https://pa
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/issues/12) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
-2. 🎉 Merged PR [#349](https://github.com/PavelGuzenfeld/standard/pull/349) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-3. 🔒 Closed issue [#348](https://github.com/PavelGuzenfeld/standard/issues/348) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-4. ℹ️ Assigned PR [#349](https://github.com/PavelGuzenfeld/standard/pull/349) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-5. 💪 Opened PR [#349](https://github.com/PavelGuzenfeld/standard/pull/349) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+1. 🗣 Commented on [#4](https://github.com/PavelGuzenfeld/geoslice/issues/4#issuecomment-6279202243) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
+2. 🗣 Commented on [#11](https://github.com/PavelGuzenfeld/geoslice/issues/11#issuecomment-6279201714) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
+3. 🎉 Merged PR [#24](https://github.com/PavelGuzenfeld/geoslice/pull/24) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
+4. 🎉 Merged PR [#19](https://github.com/PavelGuzenfeld/geoslice/pull/19) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
+5. 🎉 Merged PR [#18](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/18) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
 <!--END_SECTION:activity-->
