@@ -60,9 +60,9 @@ Open-source projects and their docs: [pavelguzenfeld.com/open-source](https://pa
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/PavelGuzenfeld/geoslice/issues/4#issuecomment-6279202243) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
-2. 🗣 Commented on [#11](https://github.com/PavelGuzenfeld/geoslice/issues/11#issuecomment-6279201714) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
-3. 🎉 Merged PR [#24](https://github.com/PavelGuzenfeld/geoslice/pull/24) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
-4. 🎉 Merged PR [#19](https://github.com/PavelGuzenfeld/geoslice/pull/19) in [PavelGuzenfeld/geoslice](https://github.com/PavelGuzenfeld/geoslice)
-5. 🎉 Merged PR [#18](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io/pull/18) in [PavelGuzenfeld/pavelguzenfeld.github.io](https://github.com/PavelGuzenfeld/pavelguzenfeld.github.io)
+1. 🔒 Closed issue [#366](https://github.com/PavelGuzenfeld/agent-sdlc/issues/366) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+2. 🎉 Merged PR [#367](https://github.com/PavelGuzenfeld/agent-sdlc/pull/367) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+3. ℹ️ Assigned PR [#367](https://github.com/PavelGuzenfeld/agent-sdlc/pull/367) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+4. 💪 Opened PR [#367](https://github.com/PavelGuzenfeld/agent-sdlc/pull/367) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+5. ℹ️ Assigned issue [#366](https://github.com/PavelGuzenfeld/agent-sdlc/issues/366) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
 <!--END_SECTION:activity-->
