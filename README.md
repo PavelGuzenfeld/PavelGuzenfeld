@@ -60,9 +60,9 @@ Open-source projects and their docs: [pavelguzenfeld.com/open-source](https://pa
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.26.15](https://github.com/PavelGuzenfeld/standard/releases/tag/v0.26.15) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-2. 🎉 Merged PR [#393](https://github.com/PavelGuzenfeld/standard/pull/393) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-3. ℹ️ Assigned PR [#393](https://github.com/PavelGuzenfeld/standard/pull/393) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-4. 💪 Opened PR [#393](https://github.com/PavelGuzenfeld/standard/pull/393) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-5. 🗣 Commented on [#437](https://github.com/PavelGuzenfeld/agent-sdlc/issues/437#issuecomment-6748119905) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+1. 🔒 Closed issue [#449](https://github.com/PavelGuzenfeld/agent-sdlc/issues/449) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+2. 🎉 Merged PR [#450](https://github.com/PavelGuzenfeld/agent-sdlc/pull/450) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+3. ❗ Opened issue [#449](https://github.com/PavelGuzenfeld/agent-sdlc/issues/449) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+4. ℹ️ Assigned PR [#450](https://github.com/PavelGuzenfeld/agent-sdlc/pull/450) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+5. 💪 Opened PR [#450](https://github.com/PavelGuzenfeld/agent-sdlc/pull/450) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
 <!--END_SECTION:activity-->
