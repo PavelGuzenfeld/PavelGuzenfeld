@@ -60,9 +60,9 @@ Open-source projects and their docs: [pavelguzenfeld.com/open-source](https://pa
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#527](https://github.com/PavelGuzenfeld/agent-sdlc/issues/527) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-2. 🎉 Merged PR [#528](https://github.com/PavelGuzenfeld/agent-sdlc/pull/528) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-3. ℹ️ Assigned PR [#528](https://github.com/PavelGuzenfeld/agent-sdlc/pull/528) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-4. 💪 Opened PR [#528](https://github.com/PavelGuzenfeld/agent-sdlc/pull/528) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
-5. ❗ Opened issue [#527](https://github.com/PavelGuzenfeld/agent-sdlc/issues/527) in [PavelGuzenfeld/agent-sdlc](https://github.com/PavelGuzenfeld/agent-sdlc)
+1. 🗣 Commented on [#414](https://github.com/PavelGuzenfeld/standard/issues/414#issuecomment-7115968538) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+2. ℹ️ Assigned issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. ℹ️ Labeled issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. ℹ️ Labeled issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. ❗ Opened issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
 <!--END_SECTION:activity-->
