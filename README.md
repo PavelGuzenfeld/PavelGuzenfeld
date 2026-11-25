@@ -60,9 +60,9 @@ Open-source projects and their docs: [pavelguzenfeld.com/open-source](https://pa
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/PavelGuzenfeld/standard/issues/414#issuecomment-7115968538) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-2. ℹ️ Assigned issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-3. ℹ️ Labeled issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-4. ℹ️ Labeled issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
-5. ❗ Opened issue [#414](https://github.com/PavelGuzenfeld/standard/issues/414) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+1. ❌ Closed PR [#418](https://github.com/PavelGuzenfeld/standard/pull/418) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+2. 🗣 Commented on [#418](https://github.com/PavelGuzenfeld/standard/pull/418#issuecomment-7148976176) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+3. 🔒 Closed issue [#416](https://github.com/PavelGuzenfeld/standard/issues/416) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+4. 🔒 Closed issue [#415](https://github.com/PavelGuzenfeld/standard/issues/415) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
+5. 🎉 Merged PR [#417](https://github.com/PavelGuzenfeld/standard/pull/417) in [PavelGuzenfeld/standard](https://github.com/PavelGuzenfeld/standard)
 <!--END_SECTION:activity-->
